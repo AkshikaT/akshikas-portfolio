@@ -2,8 +2,7 @@ import './App.css';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Pages/Home';
 import Contact from './Pages/Contact.js';
-import Experience from './Pages/Experience.js';
-import Projects from './Pages/Projects';
+import Projects from './Pages/Projects.js';
 
 /* This is the main App screen */
 function App() {

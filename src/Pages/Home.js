@@ -88,7 +88,7 @@ function Home() {
 
             <div className='resume'>
                 <h1>My Resume</h1>
-                <iframe src="https://drive.google.com/file/d/1L1Wsfy3mGUTjMepCQbjAo3PNohkn7nng/preview" width="700" height="500" allow="autoplay" style={{ border: 'none', transition: 'all 0.3s ease-in-out' }}></iframe>
+                <iframe title="resume" src="https://drive.google.com/file/d/1MTNPS9vopN0TqH_P2VWC0xJYTHqwJM70/preview" width="640" height="480" allow="autoplay"></iframe>
             </div>
         </div>
         </>
